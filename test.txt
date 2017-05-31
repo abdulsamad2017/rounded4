@@ -1,3 +1,4 @@
 Changed on Branch1
 Commit to Master
 Creating a new branch2
+Changing in Branch2
