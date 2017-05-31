@@ -3,3 +3,4 @@ Commit to Master
 Creating a new branch2
 Modify branch 2 in remote
 Modify branch 2 in local
+Modify branch 2 in remote for Fetch
