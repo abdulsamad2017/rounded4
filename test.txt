@@ -7,4 +7,5 @@ Modify branch 2 in remote for Fetch
 Modify branch 2 in remote for Fetch2
 Modify branch 2 in local
 Modified in branch3
+Change in master
 Chane in branch 1-3
