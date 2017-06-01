@@ -7,5 +7,7 @@ Modify branch 2 in remote for Fetch
 Modify branch 2 in remote for Fetch2
 Modify branch 2 in local
 Modified in branch3
+Exclusive for master 1
+Exclusive for master 2
 Exclusive for branch 1
 Exclusive for branch 2
