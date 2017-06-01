@@ -7,3 +7,4 @@ Modify branch 2 in remote for Fetch
 Modify branch 2 in remote for Fetch2
 Modify branch 2 in local
 Modified in branch3
+Exclusive for branch 1
